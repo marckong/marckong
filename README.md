@@ -48,9 +48,9 @@ Although it may not be completely accurate, I may have some attributes that belo
 ### Coaching Me
 - Allow me to reach out first for coaching unless there is a reason (for instance, I am experiencing some negativity -such as burnout- or creating some negativity)
 - Challenge me gently by giving critical thinking; it works best when
-- - you give me pros and cons without bias on one side
-- - you ask me what’s my position and why?
-- - you let me come back to you at it
+  * you give me pros and cons without bias on one side
+  * you ask me what’s my position and why?
+  * you let me come back to you at it
 - Utilize my strengths; avoid exposing my weaknesses.
 - Let’s make action items out of the coaching
 - If you need to criticize me, please do so gently and constructively with expected outcomes for changes.
